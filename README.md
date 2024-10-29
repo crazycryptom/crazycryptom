@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @crazycryptom
+ 👋 Hi, I’m @crazycryptom
 
 - I’m a passionate ***Full-Stack Developer*** developer with experience in **Blockchain**, **Python**, **JavaScript**.
 - I build **Web applications** integrated with *Blockchain*, *chatgpt* and *financial services*.
